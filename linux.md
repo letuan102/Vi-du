@@ -1,21 +1,21 @@
-#  H? ği?u hành LINUX
-## 1. Ğ?nh ngh?a
-- Linux là m?t h? ği?u hành máy tính ğı?c phát tri?n t? nãm 1991 d?a trên h? ği?u hành Unix và b?ng vi?t b?ng ngôn ng? C.
-- Do Linux ğı?c phát hành mi?n phí và có nhi?u ıu ği?m vı?t tr?i nên Linux v?n gi? ğı?c m?t ch? ğ?ng v?ng ch?c trong l?ng ngı?i dùng trı?c các ông l?n nhı Windows hay macOS.
-## 2.  C?u trúc h? ği?u hành Linux
+#  H? Ä‘i?u hÃ nh LINUX
+## 1. Ä?nh ngh?a
+- Linux lÃ  m?t h? Ä‘i?u hÃ nh mÃ¡y tÃ­nh Ä‘Æ°?c phÃ¡t tri?n t? nÄƒm 1991 d?a trÃªn h? Ä‘i?u hÃ nh Unix vÃ  b?ng vi?t b?ng ngÃ´n ng? C.
+- Do Linux Ä‘Æ°?c phÃ¡t hÃ nh mi?n phÃ­ vÃ  cÃ³ nhi?u Æ°u Ä‘i?m vÆ°?t tr?i nÃªn Linux v?n gi? Ä‘Æ°?c m?t ch? Ä‘?ng v?ng ch?c trong l?ng ngÆ°?i dÃ¹ng trÆ°?c cÃ¡c Ã´ng l?n nhÆ° Windows hay macOS.
+## 2.  C?u trÃºc h? Ä‘i?u hÃ nh Linux
 - **Kernel**
->Hay ğı?c g?i là ph?n Nhân v? ğây là ph?n quan tr?ng nh?t trong máy tính b?i ch?a ğ?ng các module hay các thı vi?n ğ? qu?n l?, giao ti?p gi?a ph?n c?ng máy tính và các ?ng d?ng.
+>Hay Ä‘Æ°?c g?i lÃ  ph?n NhÃ¢n v? Ä‘Ã¢y lÃ  ph?n quan tr?ng nh?t trong mÃ¡y tÃ­nh b?i ch?a Ä‘?ng cÃ¡c module hay cÃ¡c thÆ° vi?n Ä‘? qu?n l?, giao ti?p gi?a ph?n c?ng mÃ¡y tÃ­nh vÃ  cÃ¡c ?ng d?ng.
 - **Shell**
->-Shell là ph?n có ch?c nãng th?c thi các l?nh (command) t? ngı?i dùng ho?c t? các ?ng d?ng yêu c?u, chuy?n ğ?n cho Kernel x? l?. Shell chính là c?u n?i ğ? k?t n?i Kernel và Application, phiên d?ch các l?nh t? Application g?i ğ?n Kernel ğ? th?c thi.
->-Có các lo?i Shell nhı sau: sh (the Bourne Shell), bash(Bourne-again shell), csh (C shell), ash (Almquist shell), tsh (TENEX C shell), zsh (Z shell).
+>-Shell lÃ  ph?n cÃ³ ch?c nÄƒng th?c thi cÃ¡c l?nh (command) t? ngÆ°?i dÃ¹ng ho?c t? cÃ¡c ?ng d?ng yÃªu c?u, chuy?n Ä‘?n cho Kernel x? l?. Shell chÃ­nh lÃ  c?u n?i Ä‘? k?t n?i Kernel vÃ  Application, phiÃªn d?ch cÃ¡c l?nh t? Application g?i Ä‘?n Kernel Ä‘? th?c thi.
+>-CÃ³ cÃ¡c lo?i Shell nhÆ° sau: sh (the Bourne Shell), bash(Bourne-again shell), csh (C shell), ash (Almquist shell), tsh (TENEX C shell), zsh (Z shell).
 - **Application**
->Ğây là ph?n quen thu?c v?i chúng ta nh?t, ph?n ğ? ngı?i dùng cài ğ?t ?ng d?ng, ch?y ?ng d?ng ğ? ngı?i dùng có th? ph?c v? cho nhu c?u c?a m?nh.
-## 3.  İu, nhı?c ği?m c?a h? ği?u hành Linux
-### **İu ği?m**
-- Mi?n phí và ğı?c h? tr? các ?ng d?ng vãn ph?ng OpenOffice và LibreOffice.
-- Tính b?o m?t cao.
-- Tính linh ho?t, ngı?i dùng có th? ch?nh s?a h? ği?u hành ğ? phù h?p v?i nhu c?u s? d?ng c?a m?nh.
-- Không lo s? gi?t, lag, không ch?y n?i,…trên các máy tính có c?u h?nh không cao.
-### **Nhı?c ği?m**
-- Các nhà phát tri?n ph?n m?m v?n chıa ğ? tâm ğ?n h? ği?u hành ti?m nãng này nên s? lı?ng ph?n m?m ğı?c h? tr? v?n c?n h?n ch?.
-- M?t s? nhà s?n xu?t không phát tri?n driver h? tr? n?n t?ng Linux.
+>ÄÃ¢y lÃ  ph?n quen thu?c v?i chÃºng ta nh?t, ph?n Ä‘? ngÆ°?i dÃ¹ng cÃ i Ä‘?t ?ng d?ng, ch?y ?ng d?ng Ä‘? ngÆ°?i dÃ¹ng cÃ³ th? ph?c v? cho nhu c?u c?a m?nh.
+## 3.  Æ¯u, nhÆ°?c Ä‘i?m c?a h? Ä‘i?u hÃ nh Linux
+### **Æ¯u Ä‘i?m**
+- Mi?n phÃ­ vÃ  Ä‘Æ°?c h? tr? cÃ¡c ?ng d?ng vÄƒn ph?ng OpenOffice vÃ  LibreOffice.
+- TÃ­nh b?o m?t cao.
+- TÃ­nh linh ho?t, ngÆ°?i dÃ¹ng cÃ³ th? ch?nh s?a h? Ä‘i?u hÃ nh Ä‘? phÃ¹ h?p v?i nhu c?u s? d?ng c?a m?nh.
+- KhÃ´ng lo s? gi?t, lag, khÃ´ng ch?y n?i,â€¦trÃªn cÃ¡c mÃ¡y tÃ­nh cÃ³ c?u h?nh khÃ´ng cao.
+### **NhÆ°?c Ä‘i?m**
+- CÃ¡c nhÃ  phÃ¡t tri?n ph?n m?m v?n chÆ°a Ä‘? tÃ¢m Ä‘?n h? Ä‘i?u hÃ nh ti?m nÄƒng nÃ y nÃªn s? lÆ°?ng ph?n m?m Ä‘Æ°?c h? tr? v?n c?n h?n ch?.
+- M?t s? nhÃ  s?n xu?t khÃ´ng phÃ¡t tri?n driver h? tr? n?n t?ng Linux.
